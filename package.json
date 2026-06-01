@@ -1,0 +1,13 @@
+{
+  "name": "lean-ninja-quiz",
+  "version": "1.0.0",
+  "description": "Gideon USA Lean Ninja 5S Quiz",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
